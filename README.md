@@ -1,3 +1,3 @@
-# KTLT-BTL1
-Assignment 1 KTLT
+# DSA-BTL1
+Assignment 1 DSA
 Just for learning purpose!
